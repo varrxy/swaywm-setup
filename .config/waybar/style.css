@@ -9,7 +9,7 @@
 }
 
 window#waybar {
-    background: rgba(135, 206, 235, 1);
+    background: transparent;
     color: #e4e4e4;
     border-radius: 5px; /* Rounded corners for the bar */
     padding: 5px; /* Optional: add some padding */
